@@ -14,3 +14,5 @@ Blog post:[FFmpeg音视频核心技术与实战](https://alanhou.org/ffmpeg/)
 * FFmpeg播放器核心功能开发
 * 如何在Android下使用FFmpeg
 * 如何在iOS下使用FFmpeg
+
+New update: https://github.com/alanhou
